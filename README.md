@@ -1,3 +1,4 @@
+<img width="2132" height="2016" alt="reduce" src="https://github.com/user-attachments/assets/eb6b79a9-7ebc-42f6-8037-52edfe68f03c" />
 # Telemetry-hub
 # Serverless-IoT-Telemetry
 
