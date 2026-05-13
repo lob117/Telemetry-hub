@@ -47,4 +47,4 @@ El flujo de datos sigue esta ruta:
 * Implementar variables de dashboard (Ej. `sensor_id`) para filtrar datos de nodos específicos.
 
 ### 5. Frontend
-* El sitio web estático (`index.html`) se despliega activando GitHub Pages desde la rama `main`.
+* El sitio web estático (`index.html`) se despliega activando GitHub Pages desde la rama `main` la cual se muestra https://lob117.github.io/javier-portafolio/#.
